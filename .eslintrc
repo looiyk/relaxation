@@ -1,0 +1,11 @@
+{
+	"extends" : "rallycoding",
+	"rules": {
+		"react/require-extension": "off",
+		"import/no-unresolved": "off"
+	},
+	"plugins": [
+        "react",
+        "react-native"
+    ],
+}
